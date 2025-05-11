@@ -1,34 +1,33 @@
-## Hi there 👋
-
-# 💻 Arish Wasim
+# 👋 Hi, I'm Arish Wasim
 
 **Aspiring Data Analyst | Machine Learning Enthusiast | Backend Developer**
 
----
-
-## 👋 About Me
-
-Hi, I'm **Arish Wasim**, a passionate learner in the fields of **Data Analysis, Machine Learning, and Backend Development**. I enjoy solving real-world problems using data and code. I'm always looking for opportunities to grow, collaborate, and build meaningful projects.
-
-- 🔍 Currently learning: **Machine Learning, Pandas, SQL, DBMS**
-- 🛠️ Tech Stack: `Python`, `C++`, `SQL`, `JavaScript`, `Node.js`, `Express.js`, `MongoDB`
-- 📊 Exploring: `EDA`, `Scikit-learn`, `XGBoost`, `t-SNE`, `Data Visualization`
-- 📈 Interested in: **Data Driven Decision**,**AI Projects**, **Data-driven Web Apps**, **Visualizations**,
-- 🌱 Always eager to learn something new every day!
+Welcome to my GitHub! I'm passionate about solving real-world problems with data and code. I enjoy exploring data, building smart systems, and turning ideas into working projects.
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **AI Trip Planner** | Built an AI-powered travel planner using the Gemini API and Google Auth. | React, Gemini API, Firebase |
-| **Sorting Algorithm Visualizer** | Interactive web tool to visualize how sorting algorithms work. | HTML, CSS, JavaScript |
-| **Bookstore API** | RESTful API with user authentication (admin/user), JWT, and MongoDB. | Node.js, Express, MongoDB |
-
-> 🧠 More projects in progress... Stay tuned!
+- 📊 Currently focused on: **Data Analysis, Machine Learning, and Backend Development**
+- 📚 Learning: `Pandas`, `EDA`, `ML Algorithms`, `DBMS`, `Advanced SQL`
+- 🛠️ Tech Stack: `Python`, `C++`, `SQL`, `Node.js`, `Express.js`, `MongoDB`
+- 🌱 Exploring: `XGBoost`, `t-SNE`, `Gradient Descent`, `Scikit-learn`
+- 📌 Strengths: Clean code, problem-solving, storytelling with data
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🎯 Target Data Analyst Case Study](https://github.com/wasimarish/Target_DataAnalyst) | A business-focused data analysis case study simulating a Target hiring scenario. Covers business understanding, data exploration, insights, and EDA. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Excel`, `SQL` |
+| [📚 Bookstore API](https://book-frontend-ruby.vercel.app/) | RESTful API with role-based access (admin/user), JWT authentication, and MongoDB. | `Node.js`, `Express.js`, `MongoDB`, `JWT` |
+| [🔍 AI Trip Planner](https://github.com/wasimarish/planner-trip-ai) | AI-powered travel planner using the Gemini API with user authentication. | `React`, `Firebase`, `Gemini API` |
+| [📈 Sorting Algorithm Visualizer](https://github.com/wasimarish/Sorting-Algorithm-VIsualizer) | Visual learning tool for understanding sorting algorithms. | `HTML`, `CSS`, `JavaScript` |
+
+> 🔨 More projects coming soon — stay tuned!
+
+_Thanks for stopping by! Feel free to explore my work and connect!_
 
 ## 📫 Let's Connect
 
