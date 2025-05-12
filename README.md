@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arish Wasim
 
-**Aspiring Data Analyst | Machine Learning Enthusiast | Backend Developer**
+**Aspiring Data Analyst | Machine Learning Enthusiast **
 
 Welcome to my GitHub! I'm passionate about solving real-world problems with data and code. I enjoy exploring data, building smart systems, and turning ideas into working projects.
 
