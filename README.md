@@ -31,7 +31,7 @@ _Thanks for stopping by! Feel free to explore my work and connect!_
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(Add link if available)*
+- 🌐 [Portfolio Website](https://arishwasim-portfolio.netlify.app/) 
 - 📧 [Email](mailto:arishwasim123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arish-wasim-a09b5123a/)
 
